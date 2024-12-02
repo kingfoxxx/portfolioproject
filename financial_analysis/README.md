@@ -5,15 +5,15 @@ This README outlines the activities, projects, and accomplishments undertaken in
 ---
 
 Role Objectives  
-1. **Market Research and Trend Analysis**  
+1. Market Research and Trend Analysis  
    - Analyze trends across global capital markets to identify growth opportunities.  
    - Develop insights from historical and real-time data on various asset classes.  
 
-2. **Trading Strategy Formulation**  
+2. Trading Strategy Formulation  
    - Create actionable trading strategies based on technical analysis tools.  
    - Validate strategies using price patterns, breakout levels, and candlestick signals.  
 
-3. **Data-Driven Decision Making**  
+3. Data-Driven Decision Making  
    - Provide recommendations using statistical analysis and market visualization techniques.  
 
 ---
@@ -42,9 +42,11 @@ Role Objectives
 ---
 
 Tools and Platforms Used  
-- **Excel**: For organizing data, pip movement calculations, and ROI visualization.  
-- **Trading View**: For price chart analysis, pattern identification, and drawing tools.  
-- **Market Indicators**: Tools like "FX Market Sessions by Boitoki" for session evaluations.  
+- Excel: For organizing data, pip movement calculations, and ROI visualization.  
+- Trading View: For price chart analysis, pattern identification, and drawing tools.  
+- Market Indicators: Tools like "FX Market Sessions by Boitoki" for session evaluations.  
+- Forex Factory
+- Investing.com
 
 ---
 
