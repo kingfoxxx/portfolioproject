@@ -114,7 +114,7 @@ AND a.legal_reference <> b.legal_reference
 where a.property_address is null;
 
 
---breaking out address intoindividual columns(address, cities, states)
+--breaking out address intoindividual columns(address, cities, states, country)
 SELECT property_address
 FROM public.vashvilledatas;
 
