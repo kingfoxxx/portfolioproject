@@ -20,7 +20,7 @@ Libraries: json, re, collections, datetime, time, base58
 Cloud Potential: Designed for future GCP integration (BigQuery, Cloud Functions)
 
 Install Dependencies:
-bash
+using bash
 pip install requests beautifulsoup4 solana solders base58
 Set Up Wallet: Replace WALLET_PRIVATE_KEY in Cell 2 with a test key (e.g., 2xYkPqWnRjT5vF8mB9cD3eHgK7uN4tQ6wA1sZ2vX9pJ8rM5nL3kP7tQ9wE4uB6yV8zC1xF2gH3jK5mN7rT9vY1bD)—use a real key only after securing funds.
 Run: Open bot.ipynb in Jupyter Notebook and execute cells sequentially.
