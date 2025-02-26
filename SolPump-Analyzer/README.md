@@ -1,4 +1,4 @@
-Solana Memecoin Trading Bot
+Solana Memecoin Trading Bot (SolPump-Analyzer)
 A high-frequency, data-driven trading bot for Solana memecoins using real-time market and social data.
 Overview
 This project is an automated trading bot designed to identify and trade trending Solana memecoins with high pump potential within 24-48 hours. Built in Python within a Jupyter Notebook environment, it integrates real-time data scraping, social sentiment analysis, and blockchain transaction execution to maximize short-term returns. The bot leverages APIs from Dexscreener, TweetScout, and Rugcheck, alongside Solana’s blockchain via the solders library, to execute trades on Raydium.
